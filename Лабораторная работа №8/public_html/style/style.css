@@ -23,5 +23,20 @@
 	flex-basis: 50%
   }  
 }
+.text-white-40 {
+  color: rgba(255,255,255,0.4)
+}
+.list-border-y li {
+  border-top: 1px solid
+}
+.list-border-y li:last-child {
+  border-bottom: 1px solid
+}
+.list-border-black-20 li,
+.list-border-black-20 li:last-child{
+  border-color: rgba(0,0,0,0.2)
+}
+
+
 
 
